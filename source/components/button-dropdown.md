@@ -75,7 +75,7 @@ The properties above are just syntactic sugar and work similar to `<router-link>
 <q-btn-dropdown @click="$router.push('/')" ...> ... </q-btn-dropdown>
 ```
 
-#### Apearance
+#### Appearance
 | Vue Property | Type    | Description |
 | ---          | ---     | --- |
 | `size`       | String | Button size. One of `xs`, `sm`, `md`, `lg`, `xl`, or a css unit string size eg. `25px`, `2rem`, `3vw`. |
